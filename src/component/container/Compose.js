@@ -1,10 +1,10 @@
 import { Label } from '@material-ui/icons'
 import React, { useState } from 'react'
-import './../container/Received.css';
+import './Received.css';
 import { connect } from "react-redux";
 import { Button, Form } from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { sentMessage } from './../reducers/mailBox/mailBox-actions'
+import { sentMessage } from '../reducers/mailBox/mailBox-actions'
 
 
 

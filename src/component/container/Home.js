@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import './../container/Home.css';
+import './Home.css';
 
 
 const Home = () => {

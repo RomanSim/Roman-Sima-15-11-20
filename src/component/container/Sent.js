@@ -1,5 +1,5 @@
 import React from 'react'
-import './../container/Received.css'
+import './Received.css'
 import { connect } from "react-redux";
 
 
