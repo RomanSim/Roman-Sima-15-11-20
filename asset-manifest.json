@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Roman-Sima-15-11-20/static/css/main.8ca5dea5.chunk.css",
+    "main.js": "/Roman-Sima-15-11-20/static/js/main.744832ad.chunk.js",
+    "main.js.map": "/Roman-Sima-15-11-20/static/js/main.744832ad.chunk.js.map",
+    "runtime-main.js": "/Roman-Sima-15-11-20/static/js/runtime-main.13238b8e.js",
+    "runtime-main.js.map": "/Roman-Sima-15-11-20/static/js/runtime-main.13238b8e.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/Roman-Sima-15-11-20/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.664ee223.chunk.js": "/Roman-Sima-15-11-20/static/js/2.664ee223.chunk.js",
+    "static/js/2.664ee223.chunk.js.map": "/Roman-Sima-15-11-20/static/js/2.664ee223.chunk.js.map",
+    "static/js/3.cec25012.chunk.js": "/Roman-Sima-15-11-20/static/js/3.cec25012.chunk.js",
+    "static/js/3.cec25012.chunk.js.map": "/Roman-Sima-15-11-20/static/js/3.cec25012.chunk.js.map",
+    "index.html": "/Roman-Sima-15-11-20/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/Roman-Sima-15-11-20/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.8ca5dea5.chunk.css.map": "/Roman-Sima-15-11-20/static/css/main.8ca5dea5.chunk.css.map",
+    "static/js/2.664ee223.chunk.js.LICENSE.txt": "/Roman-Sima-15-11-20/static/js/2.664ee223.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13238b8e.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.664ee223.chunk.js",
+    "static/css/main.8ca5dea5.chunk.css",
+    "static/js/main.744832ad.chunk.js"
+  ]
+}
