@@ -1,0 +1,48 @@
+
+.wrapper{
+    box-shadow: 0 4px 20px rgba(51, 51, 51, .2);
+    margin: 50px auto;
+    overflow: auto;
+    width: 100%;
+    background-color: linen;
+}
+.inbox-container{
+    position: relative;
+    bottom: 107%;
+    float: right;
+    height: 100%;
+    width: calc(100% - 200px);
+}
+
+.messageList .row{
+    width: 100%;
+    height: 60px;
+    list-style-type: none;
+    margin: 0;
+    display: flex;
+    color: black;
+    align-items: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.messageList .row:hover{
+    cursor: pointer;
+    background-color:lightsteelblue;
+}
+
+.row #from{
+    flex: 20%;
+    display: grid;
+}
+.row #data{
+    flex: 270%;
+}
+
+.wrapper2{
+    box-shadow: 0 4px 20px rgba(51, 51, 51, .2);
+    margin: 50px auto;
+    overflow: auto;
+    width: 50%;
+    background-color: linen;
+}
+
