@@ -9,16 +9,7 @@ import './../container/Received.css'
 
 
 const Received = ({ messages }) => {
-    // const [userID, updateUserID] = useState({ "userID": 0 });
 
-    // const handleChange = e => {
-    //     updateUserID({
-    //         ...userID,
-
-    //         [e.target.name]: e.target.value.trim()
-
-    //     });
-    // };
 
     const handleSubmit = (e) => {
         e.preventDefault();
